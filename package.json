@@ -1,0 +1,15 @@
+{
+  "name": "rashomon",
+  "version": "0.0.0",
+  "description": "Split your code and text in one line.",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "rashomon"
+  ],
+  "author": "Seiji Takahashi",
+  "license": "MIT"
+}
