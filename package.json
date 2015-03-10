@@ -11,5 +11,9 @@
     "rashomon"
   ],
   "author": "Seiji Takahashi",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.1",
+    "should": "^5.1.0"
+  }
 }
