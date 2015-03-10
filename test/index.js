@@ -1,5 +1,6 @@
 var should = require('should'),
     assert = require('assert'),
+    parsedApp = require('./resources/parsedApp'),
     Rashomon = require("../index");
 
 describe('Rashomon', function () {
