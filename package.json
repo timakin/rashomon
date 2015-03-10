@@ -13,6 +13,7 @@
   "author": "Seiji Takahashi",
   "license": "MIT",
   "devDependencies": {
+    "assert": "^1.3.0",
     "mocha": "^2.2.1",
     "should": "^5.1.0"
   }
