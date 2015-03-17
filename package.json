@@ -1,7 +1,7 @@
 {
   "name": "rashomon",
-  "version": "0.0.0",
-  "description": "Split your code and text in one line.",
+  "version": "0.0.1",
+  "description": "Split code and text in one line.",
   "main": "./index.js",
   "scripts": {
     "test": "mocha"
