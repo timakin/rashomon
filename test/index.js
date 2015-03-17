@@ -14,7 +14,6 @@ describe('Rashomon', function () {
 
     describe('parseCode', function () {
         it('Test for parsing code', function () {
-            console.log(parsedApp.parseResult());
             assert.equal(Rashomon.parseCode(appjsPath), parsedApp.parseResult()) ;
         });
     });
@@ -28,6 +27,6 @@ before(function (done) {
 
 
 after(function (done) {
-    console.log('通った。これからも頑張って行こうな╭( ･ㅂ･)و ̑̑');
+    console.log('これからも頑張って行こうな╭( ･ㅂ･)و ̑̑');
     done();
 });
