@@ -1,6 +1,6 @@
 ## Rashomon
 Cut code in two.<br/>
-Rashomon let you to split code to comment and code description in one linear.<br/>
+Rashomon let you split code to comment and code description in one linear.<br/>
 ![978590B696E581I8CB489E6.jpg](https://qiita-image-store.s3.amazonaws.com/0/16301/135862f1-81ac-e832-ff00-ffc974d97025.jpeg "978590B696E581I8CB489E6.jpg")
 
 
