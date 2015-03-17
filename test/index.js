@@ -14,6 +14,7 @@ describe('Rashomon', function () {
 
     describe('parseCode', function () {
         it('Test for parsing code', function () {
+            console.log(parsedApp.parseResult());
             assert.equal(Rashomon.parseCode(appjsPath), parsedApp.parseResult()) ;
         });
     });
@@ -22,7 +23,6 @@ describe('Rashomon', function () {
 
 before(function (done) {
     console.log('やったるぜ╭( ･ㅂ･)و ̑̑');
-    console.log(Rashomon.parseCode(appjsPath));
     done();
 });
 
