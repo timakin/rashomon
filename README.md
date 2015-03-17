@@ -24,6 +24,7 @@ var Say = "YoHo";
 Then, you can save comment and code separetely with Rashomon library.
 
 ```js:usecase
+var path     = require('path');
 var Rashomon = require('rashomon');
 var target   = path.join(__dirname, './test.js');
 var result   = Rashomon.parseCode(target);
