@@ -29,5 +29,5 @@ var target   = path.join(__dirname, './test.js');
 var result   = Rashomon.parseCode(target);
 
 console.log(result);
-// [{"docsText":"this is comment", "codeText": "var Say= "YoHo";"}]
+// [{"docsText":"this is comment", "codeText": "var Say = "YoHo";"}]
 ```
